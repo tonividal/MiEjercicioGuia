@@ -1,3 +1,7 @@
-# Mi Ejercicio Guia
-
-version conexion desconexion
+# Ejercicio Guia de Sistemas Operativos  
+##  Tags:   
+    VersionInicial
+    VersionConNuevoServicio
+    VersionConConexionDesconexion
+    VersionConcurrente
+    VersionConExclusionMutua
